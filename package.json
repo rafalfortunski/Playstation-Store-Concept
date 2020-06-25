@@ -2,6 +2,7 @@
   "name": "playstation-store",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://playstation-store-concept.herokuapp.com/",
   "engines": {
     "npm": "6.14.5",
     "node": "14.3.0"
