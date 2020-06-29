@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/Playstation-Store-Concept/static/js/main.72b42284.chunk.js",
+    "main.js.map": "/Playstation-Store-Concept/static/js/main.72b42284.chunk.js.map",
+    "runtime-main.js": "/Playstation-Store-Concept/static/js/runtime-main.707749b6.js",
+    "runtime-main.js.map": "/Playstation-Store-Concept/static/js/runtime-main.707749b6.js.map",
+    "static/css/2.4600cf16.chunk.css": "/Playstation-Store-Concept/static/css/2.4600cf16.chunk.css",
+    "static/js/2.95d219d3.chunk.js": "/Playstation-Store-Concept/static/js/2.95d219d3.chunk.js",
+    "static/js/2.95d219d3.chunk.js.map": "/Playstation-Store-Concept/static/js/2.95d219d3.chunk.js.map",
+    "index.html": "/Playstation-Store-Concept/index.html",
+    "precache-manifest.ee3abfa6a78bc41704f560188a66cdc5.js": "/Playstation-Store-Concept/precache-manifest.ee3abfa6a78bc41704f560188a66cdc5.js",
+    "service-worker.js": "/Playstation-Store-Concept/service-worker.js",
+    "static/css/2.4600cf16.chunk.css.map": "/Playstation-Store-Concept/static/css/2.4600cf16.chunk.css.map",
+    "static/js/2.95d219d3.chunk.js.LICENSE.txt": "/Playstation-Store-Concept/static/js/2.95d219d3.chunk.js.LICENSE.txt",
+    "static/media/PlayStationCircle.svg": "/Playstation-Store-Concept/static/media/PlayStationCircle.e3299d58.svg",
+    "static/media/PlayStationSquare.svg": "/Playstation-Store-Concept/static/media/PlayStationSquare.e2f2e3bb.svg",
+    "static/media/PlayStationTriangle.svg": "/Playstation-Store-Concept/static/media/PlayStationTriangle.03ab2f9c.svg",
+    "static/media/PlayStationX.svg": "/Playstation-Store-Concept/static/media/PlayStationX.34a5e272.svg",
+    "static/media/logo.svg": "/Playstation-Store-Concept/static/media/logo.a593aeb9.svg",
+    "static/media/logo_white.svg": "/Playstation-Store-Concept/static/media/logo_white.e2be031b.svg",
+    "static/media/slick-theme.css": "/Playstation-Store-Concept/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.707749b6.js",
+    "static/css/2.4600cf16.chunk.css",
+    "static/js/2.95d219d3.chunk.js",
+    "static/js/main.72b42284.chunk.js"
+  ]
+}
