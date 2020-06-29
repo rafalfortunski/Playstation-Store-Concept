@@ -1,6 +1,6 @@
 import React from "react";
 
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Games from "./Games";
 import Home from "./Home";
 import GameDetails from "./GameDetails";
@@ -9,7 +9,7 @@ import NotReady from "./NotReady";
 
 const Root = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/games" component={Games} />
@@ -22,7 +22,7 @@ const Root = () => {
         <Route path="/just-for-you" component={NotReady} />
         <Route path="/login" component={NotReady} />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 

@@ -22,7 +22,6 @@ const ColorTitle = styled.span`
 const Home = () => {
   return (
     <>
-      <GlobalStyle />
       <ThemeProvider theme={mainTheme}>
         <MainGridTemplate>
           <Header>
@@ -45,14 +44,15 @@ const Home = () => {
           </ThemeProvider>
         </MainGridTemplate>
       </ThemeProvider>
+      <GlobalStyle />
     </>
   );
 };
 
 const mapStateToProps = (state) => {
   return {
-    games: state.games
-  }
-}
+    games: state.games,
+  };
+};
 
 export default connect(mapStateToProps)(Home);
