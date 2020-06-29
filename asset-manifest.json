@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.de89abbf.chunk.js",
-    "main.js.map": "./static/js/main.de89abbf.chunk.js.map",
+    "main.js": "./static/js/main.3287d411.chunk.js",
+    "main.js.map": "./static/js/main.3287d411.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.23a01010.js",
     "runtime-main.js.map": "./static/js/runtime-main.23a01010.js.map",
     "static/css/2.ab84ab19.chunk.css": "./static/css/2.ab84ab19.chunk.css",
-    "static/js/2.83ccc972.chunk.js": "./static/js/2.83ccc972.chunk.js",
-    "static/js/2.83ccc972.chunk.js.map": "./static/js/2.83ccc972.chunk.js.map",
+    "static/js/2.74a14000.chunk.js": "./static/js/2.74a14000.chunk.js",
+    "static/js/2.74a14000.chunk.js.map": "./static/js/2.74a14000.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.7715d7257047b026118cd4b8a7fca9c3.js": "./precache-manifest.7715d7257047b026118cd4b8a7fca9c3.js",
+    "precache-manifest.1c3b5979593f6b57af6e588928dde089.js": "./precache-manifest.1c3b5979593f6b57af6e588928dde089.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.ab84ab19.chunk.css.map": "./static/css/2.ab84ab19.chunk.css.map",
-    "static/js/2.83ccc972.chunk.js.LICENSE.txt": "./static/js/2.83ccc972.chunk.js.LICENSE.txt",
+    "static/js/2.74a14000.chunk.js.LICENSE.txt": "./static/js/2.74a14000.chunk.js.LICENSE.txt",
     "static/media/PlayStationCircle.svg": "./static/media/PlayStationCircle.e3299d58.svg",
     "static/media/PlayStationSquare.svg": "./static/media/PlayStationSquare.e2f2e3bb.svg",
     "static/media/PlayStationTriangle.svg": "./static/media/PlayStationTriangle.03ab2f9c.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.23a01010.js",
     "static/css/2.ab84ab19.chunk.css",
-    "static/js/2.83ccc972.chunk.js",
-    "static/js/main.de89abbf.chunk.js"
+    "static/js/2.74a14000.chunk.js",
+    "static/js/main.3287d411.chunk.js"
   ]
 }
